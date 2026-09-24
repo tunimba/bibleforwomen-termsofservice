@@ -8,7 +8,7 @@ By downloading, installing, or using the Sistr mobile application ("Sistr", "we"
 
 # 2. Eligibility
 
-Sistr is intended for adults. You confirm that you are at least 18 years of age (or the age of majority in your jurisdiction). The app is not directed at children under 13.
+Sistr is intended for adults. You confirm that you are at least 18 years of age (or the age of majority in your jurisdiction). The app is not directed at children under 9.
 
 # 3. License Grant
 
